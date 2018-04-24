@@ -1,0 +1,18 @@
+c:\Users\krenog\documents\visual studio 2015\Projects\MaQ\MaQTest\bin\Debug\MaQTest.dll
+c:\Users\krenog\documents\visual studio 2015\Projects\MaQ\MaQTest\bin\Debug\MaQTest.pdb
+c:\Users\krenog\documents\visual studio 2015\Projects\MaQ\MaQTest\bin\Debug\MaQ.dll
+c:\Users\krenog\documents\visual studio 2015\Projects\MaQ\MaQTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\krenog\documents\visual studio 2015\Projects\MaQ\MaQTest\bin\Debug\MaQ.pdb
+c:\Users\krenog\documents\visual studio 2015\Projects\MaQ\MaQTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\Users\krenog\documents\visual studio 2015\Projects\MaQ\MaQTest\obj\Debug\MaQTest.csprojResolveAssemblyReference.cache
+c:\Users\krenog\documents\visual studio 2015\Projects\MaQ\MaQTest\obj\Debug\MaQTest.dll
+c:\Users\krenog\documents\visual studio 2015\Projects\MaQ\MaQTest\obj\Debug\MaQTest.pdb
+C:\Users\krenog\Documents\GitHub\MyQ\MaQTest\bin\Debug\MaQTest.dll
+C:\Users\krenog\Documents\GitHub\MyQ\MaQTest\bin\Debug\MaQTest.pdb
+C:\Users\krenog\Documents\GitHub\MyQ\MaQTest\bin\Debug\MaQ.dll
+C:\Users\krenog\Documents\GitHub\MyQ\MaQTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\krenog\Documents\GitHub\MyQ\MaQTest\bin\Debug\MaQ.pdb
+C:\Users\krenog\Documents\GitHub\MyQ\MaQTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\krenog\Documents\GitHub\MyQ\MaQTest\obj\Debug\MaQTest.csprojResolveAssemblyReference.cache
+C:\Users\krenog\Documents\GitHub\MyQ\MaQTest\obj\Debug\MaQTest.dll
+C:\Users\krenog\Documents\GitHub\MyQ\MaQTest\obj\Debug\MaQTest.pdb

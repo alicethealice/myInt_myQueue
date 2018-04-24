@@ -1,0 +1,9 @@
+c:\users\krenog\documents\visual studio 2015\Projects\MaQ\MaQ\bin\Debug\MaQ.dll
+c:\users\krenog\documents\visual studio 2015\Projects\MaQ\MaQ\bin\Debug\MaQ.pdb
+c:\users\krenog\documents\visual studio 2015\Projects\MaQ\MaQ\obj\Debug\MaQ.dll
+c:\users\krenog\documents\visual studio 2015\Projects\MaQ\MaQ\obj\Debug\MaQ.pdb
+C:\Users\krenog\Documents\GitHub\MyQ\MaQ\bin\Debug\MaQ.dll
+C:\Users\krenog\Documents\GitHub\MyQ\MaQ\bin\Debug\MaQ.pdb
+C:\Users\krenog\Documents\GitHub\MyQ\MaQ\obj\Debug\MaQ.csprojResolveAssemblyReference.cache
+C:\Users\krenog\Documents\GitHub\MyQ\MaQ\obj\Debug\MaQ.dll
+C:\Users\krenog\Documents\GitHub\MyQ\MaQ\obj\Debug\MaQ.pdb

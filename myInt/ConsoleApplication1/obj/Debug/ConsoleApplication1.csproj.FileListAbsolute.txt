@@ -1,0 +1,8 @@
+E:\Univer\3 Курс\PE\Labs\Laboratory\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Univer\3 Курс\PE\Labs\Laboratory\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Univer\3 Курс\PE\Labs\Laboratory\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Univer\3 Курс\PE\Labs\Laboratory\ConsoleApplication1\bin\Debug\Laboratory.dll
+E:\Univer\3 Курс\PE\Labs\Laboratory\ConsoleApplication1\bin\Debug\Laboratory.pdb
+E:\Univer\3 Курс\PE\Labs\Laboratory\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Univer\3 Курс\PE\Labs\Laboratory\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Univer\3 Курс\PE\Labs\Laboratory\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
